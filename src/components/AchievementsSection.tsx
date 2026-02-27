@@ -1,5 +1,7 @@
-import slidePicMain from '../../../img/數據分析_Phoeinx_20240327_slide4_2.jpg';
-import slidePicDetail from '../../../img/數據分析_Phoeinx_20240327_slide4_4.jpg';
+//import slidePicMain from '../../../img/數據分析_Phoeinx_20240327_slide4_2.jpg';
+//import slidePicDetail from '../../../img/數據分析_Phoeinx_20240327_slide4_4.jpg';
+const slidePicMain = '/img/數據分析_Phoeinx_20240327_slide4_2.jpg';
+const slidePicDetail = '/img/數據分析_Phoeinx_20240327_slide4_4.jpg';
 
 const achievements = [
   {

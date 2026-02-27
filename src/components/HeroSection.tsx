@@ -1,4 +1,4 @@
-import profileImage from '../../../img/個人照片.jpeg';
+//import profileImage from '../../../img/個人照片.jpeg';
 
 export function HeroSection() {
   return (
@@ -6,7 +6,8 @@ export function HeroSection() {
       <div className="hero-layout">
         <div className="hero-photo-wrapper">
           <div className="hero-photo-frame">
-            <img src={profileImage} alt="Phoenix Tsai" className="hero-photo" />
+            <img src="/img/個人照片.jpeg" alt="Phoenix Tsai" className="hero-photo" />
+
           </div>
         </div>
 
