@@ -17,3 +17,11 @@ npm run dev
 
 瀏覽器開啟 `http://localhost:5173` 查看頁面。
 
+### 部署（GitHub Pages）
+
+已內建 GitHub Actions workflow（push 到 `main` 會自動 build + deploy）。
+
+1. 在 GitHub repo 設定 Pages：`Settings` → `Pages` → `Build and deployment` 選 `GitHub Actions`
+2. push 後等 Actions 跑完，網站網址通常會是：
+   - `https://<你的帳號>.github.io/personal-website/`
+
